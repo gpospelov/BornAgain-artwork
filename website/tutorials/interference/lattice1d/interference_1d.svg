@@ -14,9 +14,9 @@
    viewBox="0 0 1000 400"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="interference_1d.svg"
-   inkscape:export-filename="/home/pospelov/development/git/gisas/artwork/website/tutorials/interference/interference_1d_C.png"
+   inkscape:export-filename="/home/pospelov/development/BornAgain/BornAgain-artwork/website/tutorials/interference/lattice1d/interference_1d_C.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -181,13 +181,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="334.61548"
+     inkscape:cx="169.1525"
      inkscape:cy="259.16778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="2466"
-     inkscape:window-height="1365"
+     inkscape:window-width="3774"
+     inkscape:window-height="2063"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -255,15 +255,15 @@
        style="fill:#6e6e6e;fill-opacity:1;stroke:#646464;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="324.04529"
        y="835.3772"
-       id="text6450"
-       sodipodi:linespacing="125%"><tspan
+       id="text6450"><tspan
          sodipodi:role="line"
          id="tspan6452"
          x="324.04529"
-         y="835.3772">a</tspan></text>
+         y="835.3772"
+         style="font-size:40px;line-height:1.25">a</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000de;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 57.118284,742.5056 425.5087,959.60773"
@@ -276,28 +276,26 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="394.65005"
        y="973.72968"
-       id="text5414"
-       sodipodi:linespacing="125%"><tspan
+       id="text5414"><tspan
          sodipodi:role="line"
          id="tspan5416"
          x="394.65005"
          y="973.72968"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Adobe Courier';-inkscape-font-specification:'Adobe Courier';stroke:#0000d8;stroke-opacity:1">x</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Adobe Courier';-inkscape-font-specification:'Adobe Courier';stroke:#0000d8;stroke-opacity:1">x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="261.75571"
        y="741.86969"
-       id="text5414-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text5414-9"><tspan
          sodipodi:role="line"
          id="tspan5416-1"
          x="261.75571"
          y="741.86969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Adobe Courier';-inkscape-font-specification:'Adobe Courier';stroke:#0000d8;stroke-opacity:1">y</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Adobe Courier';-inkscape-font-specification:'Adobe Courier';stroke:#0000d8;stroke-opacity:1">y</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path5442"
@@ -310,15 +308,15 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="327.22699"
        y="888.88684"
-       id="text6045"
-       sodipodi:linespacing="125%"><tspan
+       id="text6045"><tspan
          sodipodi:role="line"
          id="tspan6047"
          x="327.22699"
-         y="888.88684">𝜉</tspan></text>
+         y="888.88684"
+         style="font-size:40px;line-height:1.25">𝜉</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-opacity:1;stroke:#0000d8;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -333,19 +331,18 @@
     <path
        inkscape:connector-curvature="0"
        id="path13259"
-       d="m 642.70862,801.58724 23.18855,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 617.95988,801.58724 h 47.93729"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.43780482px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="672.4585"
-       y="789.31848"
-       id="text4236"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="681.65094"
+       y="777.29767"
+       id="text977"><tspan
          sodipodi:role="line"
-         id="tspan4238"
-         x="672.4585"
-         y="789.31848"
-         style="font-size:35px">𝜆</tspan></text>
+         id="tspan975"
+         x="681.65094"
+         y="777.29767"
+         style="font-size:24px">Var</tspan></text>
   </g>
 </svg>
