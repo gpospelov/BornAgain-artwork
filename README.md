@@ -5,3 +5,5 @@ Collection of materials for website, graphical user interface and documentation 
 + GUI icons
 + Blender files
 + Inkscape sketches
+
+![Welcome](welcome.png)
